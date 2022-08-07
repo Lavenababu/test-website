@@ -1,0 +1,36 @@
+#nav{
+    float: right;
+}
+
+#home-header{
+    text-align: center;
+}
+/* a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  } */
+  /* a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  } */
+  a:hover {
+    color: grey;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  /* a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  } */
+#login-pg{
+    color: white;
+}
+.footer-class{
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+
